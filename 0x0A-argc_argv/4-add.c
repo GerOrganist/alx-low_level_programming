@@ -6,13 +6,14 @@
  * main - adds positive numbers.
  * @argc: counts the number of arguments
  * @argv: stores the argument as array
- * Retun: 0 (success)
+ * Return: 0 (success)
  */
 
 int main(int argc, char *argv[])
 {
 	int i;
 	int sum = 0;
+
 	if (argc == 1)
 	{
 		printf("0\n");
