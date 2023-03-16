@@ -5,8 +5,7 @@
  * main - prints the name of the program
  * @argc: counts the number of arguments passed
  * in the command line
- * @argv: storing different arguments as array
- *
+ * @argv: stores the arguments as string
  * Return: 0 (Success)
  */
 
